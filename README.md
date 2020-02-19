@@ -1,3 +1,5 @@
+fork自：https://github.com/ma6174/vim
+
 # 超强vim配置文件
 
 [![Build Status](https://travis-ci.org/ma6174/vim.png?branch=master)](https://travis-ci.org/ma6174/vim)
